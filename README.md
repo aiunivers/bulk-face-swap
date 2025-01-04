@@ -30,4 +30,4 @@ SWAP_IMAGE_URL = '' #  Add your target swap image Url
 python main py
 ```
 
-<h6 align="center">©️ 2024 Aiunivers</h6>
+<h6 align="center">©️ 2025 Aiunivers</h6>
